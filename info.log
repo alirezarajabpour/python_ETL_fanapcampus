@@ -1,0 +1,124 @@
+2024-01-20 17:42:57,260 - info_logger - INFO - File for date 1400-12-01 downloaded successfully
+2024-01-20 17:42:58,660 - info_logger - INFO - File for date 1400-12-02 downloaded successfully
+2024-01-20 17:42:59,977 - info_logger - INFO - File for date 1400-12-03 downloaded successfully
+2024-01-20 17:43:01,458 - info_logger - INFO - File for date 1400-12-04 downloaded successfully
+2024-01-20 17:43:02,954 - info_logger - INFO - File for date 1400-12-07 downloaded successfully
+2024-01-20 17:43:04,471 - info_logger - INFO - File for date 1400-12-08 downloaded successfully
+2024-01-20 17:43:05,783 - info_logger - INFO - File for date 1400-12-09 downloaded successfully
+2024-01-20 17:43:06,667 - info_logger - INFO - File for date 1400-12-10 downloaded successfully
+2024-01-20 17:43:08,376 - info_logger - INFO - File for date 1400-12-11 downloaded successfully
+2024-01-20 17:43:09,982 - info_logger - INFO - File for date 1400-12-14 downloaded successfully
+2024-01-20 17:43:11,597 - info_logger - INFO - File for date 1400-12-15 downloaded successfully
+2024-01-20 17:43:13,317 - info_logger - INFO - File for date 1400-12-16 downloaded successfully
+2024-01-20 17:43:14,598 - info_logger - INFO - File for date 1400-12-17 downloaded successfully
+2024-01-20 17:43:16,130 - info_logger - INFO - File for date 1400-12-18 downloaded successfully
+2024-01-20 17:43:17,463 - info_logger - INFO - File for date 1400-12-21 downloaded successfully
+2024-01-20 17:43:18,962 - info_logger - INFO - File for date 1400-12-22 downloaded successfully
+2024-01-20 17:43:20,628 - info_logger - INFO - File for date 1400-12-23 downloaded successfully
+2024-01-20 17:43:22,269 - info_logger - INFO - File for date 1400-12-24 downloaded successfully
+2024-01-20 17:43:23,855 - info_logger - INFO - File for date 1400-12-25 downloaded successfully
+2024-01-20 17:43:25,672 - info_logger - INFO - File for date 1400-12-28 downloaded successfully
+2024-01-20 17:43:26,789 - info_logger - INFO - File for date 1400-12-29 downloaded successfully
+2024-01-20 17:43:27,771 - info_logger - INFO - File for date 1401-01-01 downloaded successfully
+2024-01-20 17:43:29,882 - info_logger - INFO - File for date 1401-01-02 downloaded successfully
+2024-01-20 17:43:30,978 - info_logger - INFO - File for date 1401-01-03 downloaded successfully
+2024-01-20 17:43:32,389 - info_logger - INFO - File for date 1401-01-06 downloaded successfully
+2024-01-20 17:43:33,769 - info_logger - INFO - File for date 1401-01-07 downloaded successfully
+2024-01-20 17:43:34,890 - info_logger - INFO - File for date 1401-01-08 downloaded successfully
+2024-01-20 17:43:36,201 - info_logger - INFO - File for date 1401-01-09 downloaded successfully
+2024-01-20 17:43:37,716 - info_logger - INFO - File for date 1401-01-10 downloaded successfully
+2024-01-20 17:43:39,904 - info_logger - INFO - File for date 1401-01-13 downloaded successfully
+2024-01-20 17:43:41,605 - info_logger - INFO - File for date 1401-01-14 downloaded successfully
+2024-01-20 17:43:43,534 - info_logger - INFO - File for date 1401-01-15 downloaded successfully
+2024-01-20 17:43:45,549 - info_logger - INFO - File for date 1401-01-16 downloaded successfully
+2024-01-20 17:43:47,396 - info_logger - INFO - File for date 1401-01-17 downloaded successfully
+2024-01-20 17:43:49,023 - info_logger - INFO - File for date 1401-01-20 downloaded successfully
+2024-01-20 17:43:50,659 - info_logger - INFO - File for date 1401-01-21 downloaded successfully
+2024-01-20 17:43:52,370 - info_logger - INFO - File for date 1401-01-22 downloaded successfully
+2024-01-20 17:43:54,138 - info_logger - INFO - File for date 1401-01-23 downloaded successfully
+2024-01-20 17:43:56,368 - info_logger - INFO - File for date 1401-01-24 downloaded successfully
+2024-01-20 17:43:58,096 - info_logger - INFO - File for date 1401-01-27 downloaded successfully
+2024-01-20 17:43:59,955 - info_logger - INFO - File for date 1401-01-28 downloaded successfully
+2024-01-20 17:44:01,662 - info_logger - INFO - File for date 1401-01-29 downloaded successfully
+2024-01-20 17:44:10,534 - info_logger - INFO - File 1400-12-01.xlsx converted to csv successfully
+2024-01-20 17:44:10,655 - info_logger - INFO - File 1400-12-02.xlsx converted to csv successfully
+2024-01-20 17:44:10,777 - info_logger - INFO - File 1400-12-03.xlsx converted to csv successfully
+2024-01-20 17:44:10,870 - info_logger - INFO - File 1400-12-04.xlsx converted to csv successfully
+2024-01-20 17:44:10,981 - info_logger - INFO - File 1400-12-07.xlsx converted to csv successfully
+2024-01-20 17:44:11,093 - info_logger - INFO - File 1400-12-08.xlsx converted to csv successfully
+2024-01-20 17:44:11,197 - info_logger - INFO - File 1400-12-09.xlsx converted to csv successfully
+2024-01-20 17:44:11,213 - info_logger - INFO - File 1400-12-10.xlsx is empty and will be deleted
+2024-01-20 17:44:11,323 - info_logger - INFO - File 1400-12-11.xlsx converted to csv successfully
+2024-01-20 17:44:11,427 - info_logger - INFO - File 1400-12-14.xlsx converted to csv successfully
+2024-01-20 17:44:11,526 - info_logger - INFO - File 1400-12-15.xlsx converted to csv successfully
+2024-01-20 17:44:11,657 - info_logger - INFO - File 1400-12-16.xlsx converted to csv successfully
+2024-01-20 17:44:11,807 - info_logger - INFO - File 1400-12-17.xlsx converted to csv successfully
+2024-01-20 17:44:11,913 - info_logger - INFO - File 1400-12-18.xlsx converted to csv successfully
+2024-01-20 17:44:12,041 - info_logger - INFO - File 1400-12-21.xlsx converted to csv successfully
+2024-01-20 17:44:12,171 - info_logger - INFO - File 1400-12-22.xlsx converted to csv successfully
+2024-01-20 17:44:12,280 - info_logger - INFO - File 1400-12-23.xlsx converted to csv successfully
+2024-01-20 17:44:12,404 - info_logger - INFO - File 1400-12-24.xlsx converted to csv successfully
+2024-01-20 17:44:12,517 - info_logger - INFO - File 1400-12-25.xlsx converted to csv successfully
+2024-01-20 17:44:12,619 - info_logger - INFO - File 1400-12-28.xlsx converted to csv successfully
+2024-01-20 17:44:12,633 - info_logger - INFO - File 1400-12-29.xlsx is empty and will be deleted
+2024-01-20 17:44:12,648 - info_logger - INFO - File 1401-01-01.xlsx is empty and will be deleted
+2024-01-20 17:44:12,662 - info_logger - INFO - File 1401-01-02.xlsx is empty and will be deleted
+2024-01-20 17:44:12,677 - info_logger - INFO - File 1401-01-03.xlsx is empty and will be deleted
+2024-01-20 17:44:12,808 - info_logger - INFO - File 1401-01-06.xlsx converted to csv successfully
+2024-01-20 17:44:12,914 - info_logger - INFO - File 1401-01-07.xlsx converted to csv successfully
+2024-01-20 17:44:12,975 - info_logger - INFO - File 1401-01-08.xlsx converted to csv successfully
+2024-01-20 17:44:13,073 - info_logger - INFO - File 1401-01-09.xlsx converted to csv successfully
+2024-01-20 17:44:13,192 - info_logger - INFO - File 1401-01-10.xlsx converted to csv successfully
+2024-01-20 17:44:13,199 - info_logger - INFO - File 1401-01-13.xlsx is empty and will be deleted
+2024-01-20 17:44:13,313 - info_logger - INFO - File 1401-01-14.xlsx converted to csv successfully
+2024-01-20 17:44:13,441 - info_logger - INFO - File 1401-01-15.xlsx converted to csv successfully
+2024-01-20 17:44:13,546 - info_logger - INFO - File 1401-01-16.xlsx converted to csv successfully
+2024-01-20 17:44:13,649 - info_logger - INFO - File 1401-01-17.xlsx converted to csv successfully
+2024-01-20 17:44:13,782 - info_logger - INFO - File 1401-01-20.xlsx converted to csv successfully
+2024-01-20 17:44:13,882 - info_logger - INFO - File 1401-01-21.xlsx converted to csv successfully
+2024-01-20 17:44:14,012 - info_logger - INFO - File 1401-01-22.xlsx converted to csv successfully
+2024-01-20 17:44:14,131 - info_logger - INFO - File 1401-01-23.xlsx converted to csv successfully
+2024-01-20 17:44:14,234 - info_logger - INFO - File 1401-01-24.xlsx converted to csv successfully
+2024-01-20 17:44:14,346 - info_logger - INFO - File 1401-01-27.xlsx converted to csv successfully
+2024-01-20 17:44:14,470 - info_logger - INFO - File 1401-01-28.xlsx converted to csv successfully
+2024-01-20 17:44:14,617 - info_logger - INFO - File 1401-01-29.xlsx converted to csv successfully
+2024-01-20 17:44:37,548 : Data loaded successfully
+2024-01-20 17:44:37,548 : Top symbols by volume calculated successfully:
+symbol
+شستا      37572662087
+خودرو     26889344190
+خساپا     23057333965
+خاورح     17817074922
+خگستر     13971833222
+خپارس     10716370215
+كمند       9705057740
+وتجارت     8700698909
+تجلي       8682750130
+وبملت      8293400029
+Name: volume, dtype: int64
+2024-01-20 17:44:37,564 : Top symbols by price increase calculated successfully:
+symbol
+اراد50     999950
+تسه9910    468813
+تسه9912    390713
+تسه9901    316200
+تسه9911    287162
+تسه0004    279347
+تسه9906    277520
+تسه9907    268304
+تسه0007    241861
+تسه0001    209983
+Name: price_change, dtype: int64
+2024-01-20 17:44:37,564 : Top symbols by price decrease calculated successfully:
+symbol
+تملي710      -234202
+تسه0009      -202894
+اخزا8194     -149896
+تسه9905      -113933
+زعف0110پ20    -97167
+شرنگي         -78200
+تسه9812       -75326
+اخزا904       -71780
+اخزا9164      -69798
+تملي805       -53830
+Name: price_change, dtype: int64
